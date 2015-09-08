@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Developer\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-af4dd21e0e1be5cc6f46c34b25afe91cc9998a13.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c644f10b958e93efc79611d310e071ad9088f076.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-96376f10e7ffeff93884ca587ee327d651d1653c.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-a38a38412eda9fe04a148f2755a01a6833562e45.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-c5103a7d0343a9fc2b3df902494b46bd94eb34d5.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-cc66ecd4a16ceacde2f8310b2d10ebee7988097d.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-07d81b27bd2a96a3806d82b2f7ecd0727773205d.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-cb2f551b6acef4c2a7c67c0875ea4243f87e552d.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Android\AndroidStudioProjects\Examples\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-02fc0c3c1e93d494b4085f3ddcb8d75adb32fc4b.jar" />
+    </item>
+
+</items>
