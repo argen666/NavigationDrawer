@@ -8,6 +8,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.antonioleiva.materializeyourapp.picasso.CircleTransform;
+import com.squareup.picasso.Picasso;
+
 import java.util.List;
 
 /**
@@ -67,7 +70,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         //holder.mTextView.setText(mDataset[position]);
         holder.personName.setText(persons.get(i).name);
         holder.personAge.setText(persons.get(i).age);
-        holder.personPhoto.setImageResource(persons.get(i).photoId);
+        Picasso.with(holder.cv.getContext()).load("http://chastnik.ru/upload/iblock/1c5/1c5a13f548a8725ce3639edf2b2f30ed.jpg").transform(new CircleTransform()).into(holder.personPhoto);
+        //holder.personPhoto.setImageResource(persons.get(i).photoId);
 
     }
 

@@ -24,9 +24,9 @@ public class WorkFragment extends Fragment implements RecyclerViewAdapter.OnItem
     static {
         for (int i = 1; i <= 2; i++) {
             //items.add(new ViewModel("Item " + i, "http://lorempixel.com/500/500/animals/" + i));
-            items.add(new Person("Emma Wilson", "23 years old", R.drawable.ic_launcher));
-            items.add(new Person("Lavery Maiss", "25 years old", R.drawable.ic_launcher));
-            items.add(new Person("Lillie Watts", "35 years old", R.drawable.ic_launcher));
+            items.add(new Person("Патриарх Кирилл", "43 years old", R.drawable.ic_launcher));
+            items.add(new Person("Владимир Гундяев", "45 years old", R.drawable.ic_launcher));
+            items.add(new Person("Митрополит Смоленский", "50 years old", R.drawable.ic_launcher));
         }
     }
     // TODO: Rename and change types of parameters

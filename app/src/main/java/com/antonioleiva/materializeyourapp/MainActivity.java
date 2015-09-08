@@ -45,8 +45,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity  {
 
-    public static final String AVATAR_URL = "http://chastnik.ru/upload/iblock/1c5/1c5a13f548a8725ce3639edf2b2f30ed.jpg";
-    //public static final String AVATAR_URL = "http://pics.wikireality.ru/upload/thumb/f/f4/82f2426f2971.jpg/250px-82f2426f2971.jpg";
+    //public static final String AVATAR_URL = "http://chastnik.ru/upload/iblock/1c5/1c5a13f548a8725ce3639edf2b2f30ed.jpg";
+    public static final String AVATAR_URL = "http://pics.wikireality.ru/upload/thumb/f/f4/82f2426f2971.jpg/250px-82f2426f2971.jpg";
 
 
 
